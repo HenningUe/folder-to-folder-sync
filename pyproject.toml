@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simple-foto-folder-sync"
+version = "0.1.0"
+dependencies = [
+  "simple-file-mirror",
+]
+requires-python = ">=3.12"
+authors = [
+  {name = "Henning Uekötter"},
+]
+maintainers = [
+]
+description = "Simple Foto Folder Synchronizer"
+readme = "README.rst"
+license = {file = "LICENSE.txt"}
+keywords = ["sync", "synchronize", "photo", "foto"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python"
+]
+
+[project.optional-dependencies]
+# open
+
+[project.urls]
+# open
+
+[project.scripts]
+# open
+
+[project.gui-scripts]
+# open
+
+[project.entry-points."spam.magical"]
+# open
