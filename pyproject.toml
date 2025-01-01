@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "simple-foto-folder-sync"
 version = "0.1.0"
 dependencies = [
-  "simple-file-mirror",
+  "simplefilemirror",
 ]
 requires-python = ">=3.12"
 authors = [
