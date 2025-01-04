@@ -43,8 +43,7 @@
 				"ms-python.vscode-pylance",
 				"autopep8.autopep8",
         		"GitHub.copilot",
-				"devcontainer-remote.vscode-remote-extensionpack",
-        		"streetsidesoftware.code-spell-checker"
+				"devcontainer-remote.vscode-remote-extensionpack"
 			]
 		}
 	}
