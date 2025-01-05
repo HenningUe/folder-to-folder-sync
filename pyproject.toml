@@ -24,7 +24,7 @@ classifiers = [
 ]
 
 [project.optional-dependencies]
-# open
+# open, but not needed
 
 [project.urls]
 # open
