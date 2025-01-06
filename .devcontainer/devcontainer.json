@@ -48,8 +48,8 @@
 
 			"codespaces": {
 				"repositories": {
-					"HenningUe/simple-file-mirror": {
-						"permissions": "write-all"
+					"HenningUe/*": {
+          				"permissions": "write-all"
 					}
 				}
 			}
