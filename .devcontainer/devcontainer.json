@@ -44,13 +44,14 @@
 				"autopep8.autopep8",
         		"GitHub.copilot",
 				"devcontainer-remote.vscode-remote-extensionpack"
-			],
+			]
 
-			"codespaces": {
-				"repositories": {
-					"HenningUe/*": {
-          				"permissions": "write-all"
-					}
+		},
+		
+		"codespaces": {
+			"repositories": {
+				"HenningUe/*": {
+					  "permissions": "write-all"
 				}
 			}
 		}
