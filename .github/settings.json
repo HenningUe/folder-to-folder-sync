@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/workspaces/simple-file-mirror"
+    ],
+    "python.analysis.extraPaths": [
+        "/workspaces/simple-file-mirror"
+    ]
+}
